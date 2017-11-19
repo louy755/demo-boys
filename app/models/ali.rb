@@ -1,0 +1,2 @@
+class Ali < ApplicationRecord
+end

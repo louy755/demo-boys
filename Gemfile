@@ -13,6 +13,10 @@ gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'geocoder'
+gem 'carrierwave', '~> 1.1'
+gem 'mini_magick', '~> 4.7'
+gem 'bootstrap', '~> 4.0.0.alpha3'
+
 
 gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
